@@ -37,10 +37,6 @@
 
 <br/>
 
-<a href="https://github.com/alissonwork" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonwork&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-alissonwork.br@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonwork.br@gmail.com)](mailto:alissonwork.br@gmail.com)
