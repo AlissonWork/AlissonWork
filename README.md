@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=alissonwork&color=006bed)
 
 ## Sobre mim
 
