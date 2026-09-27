@@ -12,12 +12,13 @@
 
 ## 🚀 About me
 
-- 💻 Software Developer focused on building solid, well-structured **REST APIs** and **full-stack applications**
-- 🛠️ Comfortable across the stack with **Node.js, Express, PostgreSQL** and modern **JavaScript/TypeScript**
-- 📚 Currently building and refining a **library management API** to sharpen my backend engineering practices
-- 🌱 Exploring **automation (n8n)** and **AI-assisted development** in my personal projects
-- 🎯 Actively looking for new opportunities as a **Software Developer**
-- ⚡ I care about clean, maintainable code and getting the fundamentals right
+- 💻 Full Stack Software Developer, building end-to-end web applications and REST APIs — from **React/Next.js** interfaces down to **Node.js/PostgreSQL** backends
+- 🏢 Hands-on production experience as a Full Stack Developer, working across the stack with **TypeScript, React, Next.js, Node.js and SQL**
+- 🤖 Applying **Machine Learning and AI** to real projects — trained in Python for data science and AI-powered backends, and always looking for ways to bring ML into production code
+- ⚙️ Building **automation workflows** and writing automated tests (Cypress/Playwright) to keep systems reliable and hands-off
+- 🎓 Computer Engineering student — constantly reinforcing the fundamentals that make the rest of the stack make sense
+- 🎯 Open to new Software Developer opportunities where I can keep shipping real, well-engineered solutions
+- ⚡ Clean, maintainable code and understanding the "why" behind every line — non-negotiable
 
 <br/>
 
