@@ -47,15 +47,15 @@
 
 <br/>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=AlissonWork&theme=radical&hide_border=true&hide=stars,prs,issues,streak,week,trend,avg,grade&show_ring=false" />
-  <img src="https://ghstats.dev/api/langs?username=AlissonWork&theme=radical&layout=donut&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=AlissonWork&theme=radical&hide_border=true&hide=stars,prs,issues,streak,week,trend,avg,grade&show_ring=false&v=2" />
+  <img src="https://ghstats.dev/api/langs?username=AlissonWork&theme=radical&layout=donut&hide_border=true&v=2" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlissonWork&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AlissonWork&theme=radical&hide_border=true&v=2" />
 </div>
 
 <br/>
