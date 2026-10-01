@@ -12,13 +12,13 @@
 
 ## 🚀 About me
 
-- 💻 Full Stack Software Developer, building end-to-end web applications and REST APIs — from **React/Next.js** interfaces down to **Node.js/PostgreSQL** backends
+- 💻 Full Stack Software Developer, building end-to-end web applications and REST APIs from **React/Next.js** interfaces down to **Node.js/PostgreSQL** backends
 - 🏢 Hands-on production experience as a Full Stack Developer, working across the stack with **TypeScript, React, Next.js, Node.js and SQL**
-- 🤖 Applying **Machine Learning and AI** to real projects — trained in Python for data science and AI-powered backends, and always looking for ways to bring ML into production code
+- 🤖 Applying **Machine Learning and AI** to real projects trained in Python for data science and AI-powered backends, and always looking for ways to bring ML into production code
 - ⚙️ Building **automation workflows** and writing automated tests (Cypress/Playwright) to keep systems reliable and hands-off
-- 🎓 Computer Engineering student — constantly reinforcing the fundamentals that make the rest of the stack make sense
+- 🎓 Computer Engineering student constantly reinforcing the fundamentals that make the rest of the stack make sense
 - 🎯 Open to new Software Developer opportunities where I can keep shipping real, well-engineered solutions
-- ⚡ Clean, maintainable code and understanding the "why" behind every line — non-negotiable
+- ⚡ Clean, maintainable code and understanding the "why" behind every line non-negotiable
 
 <br/>
 
